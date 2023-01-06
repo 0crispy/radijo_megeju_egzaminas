@@ -66,7 +66,7 @@ impl Default for MyApp{
                     "",include_bytes!("images/b3.gif"),
                 ).unwrap());
                 map.insert("images/b4.gif".to_string(),RetainedImage::from_image_bytes(
-                    "",include_bytes!("images/b5.gif"),
+                    "",include_bytes!("images/b4.gif"),
                 ).unwrap());
                 map.insert("images/b5.gif".to_string(),RetainedImage::from_image_bytes(
                     "",include_bytes!("images/b5.gif"),
