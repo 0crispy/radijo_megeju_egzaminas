@@ -1,5 +1,5 @@
-# Radijo megėjų B lygio egzamino testavimo platforma
-Ši programa skirta pasiruošti radijo megėjų egzaminui. 
+# Radijo mėgėjų B lygio egzamino testavimo platforma
+Ši programa skirta pasiruošti radijo mėgėjų egzaminui. 
 Programa parašyta naudojant 'Rust' kalbą ir 'egui' grafinę vartotojo sąsają. 
 Ačiū https://github.com/kareiva/hamradio-quiz už idėją.
 # English
